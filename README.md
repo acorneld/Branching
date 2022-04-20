@@ -1,5 +1,7 @@
 ## Git Cheat Sheet
 
+THIS IS MAIN BRANCH CODE.
+
 Overview of git commands.
 Hey thisis the newBranch stuff
 
