@@ -5,4 +5,4 @@
 * `git add fileName` - stage file for commit
 * `git add .` - stage current folder for commit
 * `git commit -m 'Commit msg'` - Commit current workspace snapshot to local repo
-* ``
+* `   `
