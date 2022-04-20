@@ -1,5 +1,7 @@
 ## Git Cheat Sheet
 
+CHANGES IN BRANCHING
+
 Overview of git commands.
 Hey thisis the newBranch stuff
 
