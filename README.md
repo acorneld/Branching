@@ -1,6 +1,10 @@
 ## Git Cheat Sheet
 
+
 CHANGES IN BRANCHING
+
+THIS IS MAIN BRANCH CODE.
+
 
 Overview of git commands.
 Hey thisis the newBranch stuff
